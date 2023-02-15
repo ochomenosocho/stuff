@@ -1,0 +1,18 @@
+ 144 laravel new project
+ 145 ls
+ 146 cd .\project\
+ 147 git init
+ 148 git remote add origin https://github.com/user/project.git
+ 149 ls
+ 150 git fetch --all
+ 152 git branch
+ 153 git add .
+ 156 git commit -m 'first commit'
+ 165 git push --set-upstream origin master
+ 167 git branch
+ 169 git fetch --all
+ 171 git branch -f
+ 172 git checkout master
+ 173 git branch main master -f
+ 174 git checkout main
+ 175 git push origin main -f
